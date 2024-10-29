@@ -39,7 +39,11 @@ body {
     background-color: var(--card-front-color);
 
 }
-
+.cartao__conteudo {
+    text-align: center;
+    height: 100%;
+    background-color: var(--card-front-color);
+}
 
 
 
